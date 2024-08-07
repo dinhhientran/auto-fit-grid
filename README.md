@@ -39,7 +39,7 @@ First, include the AutoFitGrid script in your HTML file:
 Next, create a grid container with header and column elements:
 
 ```html
-<div class="grid-container" data-distribute-remaining-space="true">
+<div class="grid-container">
     <div class="grid-header" data-type="text">Company Name</div>
     <div class="grid-header" data-type="text">Country</div>
     <div class="grid-header" data-type="email">Email</div>
