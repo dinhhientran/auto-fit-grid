@@ -1,6 +1,6 @@
 {
   "name": "auto-fit-grid",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A robust JavaScript library for dynamically adjusting grid column widths based on content.",
   "main": "dist/index.js",
   "scripts": {

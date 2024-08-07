@@ -24,6 +24,8 @@ npm install auto-fit-grid
 
 https://autofitgrid.codeutility.io
 
+![AutoFitGrid Example](example.png)
+
 ## Usage
 
 ### Basic Usage
